@@ -1,5 +1,10 @@
 {
     "files.associations": {
+        "gsl_fit.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "gsl_statistics_double.h": "c",
+        "gsl_math.h": "c",
         "queue.h": "c"
     }
 }
