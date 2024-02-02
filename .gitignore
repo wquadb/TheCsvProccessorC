@@ -1,8 +1,6 @@
 build
 build/
 .build
-queue.h
-./queue.h
 CMakeFiles
 .vs
 .vscode
@@ -12,3 +10,6 @@ CMakeFiles/
 /CMakeFiles
 /.vs
 /.vscode
+./CMakeFiles
+./.vs
+./.vscode
